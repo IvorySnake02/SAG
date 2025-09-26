@@ -25,8 +25,10 @@ Please stay tuned!
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{ibarra2025gradient,
+@inproceedings{ibarra2025SAG,
   title={Gradient-based Model Shortcut Detection for Time Series Classification},
-  author={Ibarra, Salomon and Cantu, Frida and Zhou, Kaixiong and Zhang, Li},
-  year={2025}
+  author={ibarra, cantu, kaixiong, zhang},
+  booktitle={2025 International Conference on Machine Learning and Applications (ICMLA)},
+  year={2025},
+  organization={IEEE}
 }
