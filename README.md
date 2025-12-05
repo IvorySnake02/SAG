@@ -95,17 +95,9 @@ If you find this work useful, please cite our paper:
 }
 ```
 
----
-
-## 📝 License
-
-[Add your license here, e.g., MIT License]
-
----
-
 ## 🤝 Contact
 
-For questions or issues, please open an issue on GitHub or contact [your email].
+For questions or issues, please open an issue on GitHub or contact salomon.ibarra01@utrgv.edu.
 
 ---
 
